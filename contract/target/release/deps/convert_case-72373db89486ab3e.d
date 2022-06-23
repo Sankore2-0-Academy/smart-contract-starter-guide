@@ -1,9 +1,0 @@
-/home/paudel/projects/Blockchain/Sankore2.0/Bootcamps/cohort-3/demo/contract/target/release/deps/convert_case-72373db89486ab3e.rmeta: /home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/lib.rs /home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/case.rs /home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/words.rs
-
-/home/paudel/projects/Blockchain/Sankore2.0/Bootcamps/cohort-3/demo/contract/target/release/deps/libconvert_case-72373db89486ab3e.rlib: /home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/lib.rs /home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/case.rs /home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/words.rs
-
-/home/paudel/projects/Blockchain/Sankore2.0/Bootcamps/cohort-3/demo/contract/target/release/deps/convert_case-72373db89486ab3e.d: /home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/lib.rs /home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/case.rs /home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/words.rs
-
-/home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/lib.rs:
-/home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/case.rs:
-/home/paudel/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/words.rs:
